@@ -11,8 +11,8 @@ A passionate [OverNight Complete the Project] interested in [Finding Projects].
 
 ## Projects
 
-*   [Project 1](https://github.com/Nithhzzy/HappyBirthDay/tree/main/birthday_card_1): A Birthday Card.
-*   [Project 2](https://github.com/Nithhzzy/Discord-Bot-ChatGPT): A Discord ChatGPT.
+*   [Birthday Card](https://github.com/Nithhzzy/HappyBirthDay/tree/main/birthday_card_1): A Birthday Card.
+*   [Discord Bot](https://github.com/Nithhzzy/Discord-Bot-ChatGPT): A Discord ChatGPT.
 *   [My Portfolio](https://nithh4u.netlify.app/)
 
 ## Contact
@@ -22,9 +22,5 @@ A passionate [OverNight Complete the Project] interested in [Finding Projects].
 *   [TikTok](https://www.tiktok.com/@dc_nithhzzy)
 *   [Telegram](https://t.me/nithhzzy)
 *   [Discord](skynith_from_bmt)
-
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for visiting!
