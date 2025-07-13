@@ -13,7 +13,7 @@ A passionate [OverNight Complete the Project] interested in [Finding Projects].
 
 *   [Birthday Card](https://github.com/Nithhzzy/HappyBirthDay/tree/main/birthday_card_1): A Birthday Card.
 *   [Discord Bot](https://github.com/Nithhzzy/Discord-Bot-ChatGPT): A Discord ChatGPT.
-*   [My Portfolio](https://nithh4u.netlify.app/)
+*   [My Portfolio](https://nithh4u.netlify.app/) Portfolio
 
 ## Contact
 
